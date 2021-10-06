@@ -80,9 +80,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Autor
-Iran S. Neto
----
-Apaixonado ❤️ por Programação 👋🏽 Entre em contato!
+### Iran S. Neto
 
- [![Linkedin Badge](https://img.shields.io/static/v1?label=linkedin&labelColor=0e76a8&message=@iranneto&color=0e76a8&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iranneto/) 
-[![Gmail Badge](https://img.shields.io/static/v1?label=gmail&labelColor=ffffff&message=iransneto2@gmail.com&color=b23121&style=for-the-badge&logo=gmail)](mailto:iransneto2@gmail.com)
+Nos melhores caminhos 🧡 da Programação 💻 Entre em contato!
+
+ [![Linkedin Badge](https://img.shields.io/static/v1?label=linkedin&labelColor=0e76a8&message=@iranneto&color=0e76a8&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iranneto/) [![Gmail Badge](https://img.shields.io/static/v1?label=gmail&labelColor=ffffff&message=iransneto2@gmail.com&color=b23121&style=for-the-badge&logo=gmail)](mailto:iransneto2@gmail.com)
