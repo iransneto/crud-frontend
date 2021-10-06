@@ -27,9 +27,13 @@ export class ProductCreateComponent implements OnInit {
     this.productService.create(this.product).subscribe(() => {
 
       this.productService.showSnackBar('Produto Criado com Sucesso!');
-      this.router.navigate(['/products'])
+      this.router.navigate(['/products']);
     });
-
   }
+
+  cancel(): void {
+    this.router.navigate(['/products']);
+  }
+
 
 }
