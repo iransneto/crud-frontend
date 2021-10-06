@@ -80,7 +80,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Autor
+Iran S. Neto
 ---
+Apaixonado ❤️ por Programação 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/static/v1?label=linkedin&labelColor=0e76a8&message=@iranneto&color=0e76a8&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iranneto/) 
+[![Gmail Badge](https://img.shields.io/static/v1?label=gmail&labelColor=ffffff&message=iransneto2@gmail.com&color=b23121&style=for-the-badge&logo=gmail)](mailto:iransneto2@gmail.com)
