@@ -28,4 +28,19 @@ export class ProductService {
   read() : Observable<Product[]> {
     return this.http.get<Product[]>(this.baseUrl);
   }
+
+  readById(id: string| null) : Observable<Product> {
+    let url = `${this.baseUrl}/${id}`;
+    return this.http.get<Product>(url);
+  }
+
+  udpdate(product: Product) :Observable<Product> {
+    let url: string = `${this.baseUrl}/${product.id}`
+    return this.http.put<Product>(url, product);
+  }
+
+  delete(id: string): Observable<Product> {
+    let url : string = `${this.baseUrl}/${id}`; 
+    return this.http.delete<Product>(url);
+  }
 }
